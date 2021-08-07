@@ -16,4 +16,4 @@
 
 # CONCLUSION:
 
-  From this system an accuracy of 70% - 80% can be achieved.
+  From this system an accuracy of *70% - 80%* can be achieved.
