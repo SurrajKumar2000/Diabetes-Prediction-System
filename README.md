@@ -63,10 +63,9 @@ This section should list any major frameworks that you built your project using.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
-  npm install npm@latest -g
+   py --version
   ```
 
 ### Installation
