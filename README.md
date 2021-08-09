@@ -67,9 +67,13 @@ This section should list any major frameworks that you built your project using.
   ```sh
    py --version
   ```
+* Setting up a virtual environment
+          To create a virtual environment for your project, open a new command prompt, navigate to the folder where you want to create your project and then enter the following:
+
   ```sh
    py -m venv project-name
   ```
+    This will create a folder called ‘project-name’ if it does not already exist and setup the virtual environment. To activate the environment, run:
   ```sh
    project-name\Scripts\activate.bat
   ```
