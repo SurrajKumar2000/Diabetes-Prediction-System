@@ -78,7 +78,7 @@ This section should list any major frameworks that you built your project using.
    project-name\Scripts\activate.bat
   ```
  * Install Django
-          In the command prompt, ensure your virtual environment is active, and execute the following command:
+  In the command prompt, ensure your virtual environment is active, and execute the following command:
   ```sh
    py -m pip install Django
   ```
