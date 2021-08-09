@@ -73,7 +73,7 @@ This section should list any major frameworks that you built your project using.
   ```sh
    py -m venv project-name
   ```
-    This will create a folder called ‘project-name’ if it does not already exist and setup the virtual environment. To activate the environment, run:
+   This will create a folder called ‘project-name’ if it does not already exist and setup the virtual environment. To activate the environment, run:
   ```sh
    project-name\Scripts\activate.bat
   ```
