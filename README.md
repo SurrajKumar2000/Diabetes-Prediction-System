@@ -20,9 +20,6 @@
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     </ol>
 </details>
 
@@ -86,10 +83,6 @@ This section should list any major frameworks that you built your project using.
 ### Installation:
 
    * Install all the necessary files.
-   * Clone the repo
-      ```sh
-      git clone
-      ```
    * Open Pycharm and paste all the files.
    * In the terminal type cd DiabetesProject -> cd DiabetesProject -> python manage.py runserver.Now django server will be initiallised..
    * Open http://127.0.0.1:5000/ in your browser.
