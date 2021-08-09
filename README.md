@@ -63,7 +63,25 @@ This section should list any major frameworks that you built your project using.
 
 ### Prerequisites
 
-* npm
+* Install Python
+  ```sh
+   py --version
+  ```
+  ```sh
+   py -m venv project-name
+  ```
+  ```sh
+   project-name\Scripts\activate.bat
+  ```
+  ```sh
+   py -m pip install Django
+  ```
+  ```sh
+   py --version
+  ```
+  ```sh
+   py --version
+  ```
   ```sh
    py --version
   ```
