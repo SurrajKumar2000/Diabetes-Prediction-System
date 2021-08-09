@@ -56,8 +56,7 @@ This section should list any major frameworks that you built your project using.
 * [Laravel](https://laravel.com)
 
 
-# GETTING STARTED 
-# INSTALLATION PROCEDURE:
+# GETTING STARTED:
 
 ### Prerequisites
 
@@ -80,9 +79,7 @@ This section should list any major frameworks that you built your project using.
    ```sh
      py -m pip install Django
    ```
-
-### Installation:
-
+### Installation
    * Install all the necessary files.
    * Open Pycharm and paste all the files.
    * In the terminal type cd DiabetesProject -> cd DiabetesProject -> python manage.py runserver.Now django server will be initiallised..
